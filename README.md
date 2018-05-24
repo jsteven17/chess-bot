@@ -4,7 +4,7 @@ This repository contains all of the python files necessary to run the Raspberry 
 ## Files and Descriptions
 * initialize-sequence.py - calls all other neccessary files in order
 * gui.py - front end of the controll software DEBUG ONLY
-* ...
+* calibrate.py - finds the chessboard square corner coordinates
 
 ## Authors
 * James Steven
