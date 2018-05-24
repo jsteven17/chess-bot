@@ -36,7 +36,8 @@
 # are analyzed, one before the human move and one after. In this implementation,
 # the images can be subtracted thereby easily identifying the moved piece. The
 # squares that changed can also be evaluated for average color to see whether
-# a white or black piece was moved to it. Even with the alternate implementation,
+# a white or black piece was moved to it. With this implementation, the output would
+# be a move in algebraic chess notation (ex: Ne4). Even with the alternate implementation,
 # this algorithm will be exceedingly difficult to build to a reliable
 # state, much less perfection. In the case that direct image manipulation
 # using traditional methods is unsatisfactory, two aditional more
