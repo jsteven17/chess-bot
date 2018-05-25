@@ -3,10 +3,10 @@ This repository contains all of the python files necessary to run the Raspberry 
 
 ## Files and Descriptions
 * [initialize-sequence.py](/initialize-sequence.py) - Calls all other neccessary files in order
-* gui.py - Front end of the controll software DEBUG ONLY
-* calibrate.py - Finds the chessboard square corner coordinates
-* execute.py - Uses board coordinates and a chess board images to determine moves
-* interface.py - Interfaces with the chess engine to input and receive moves
+* [gui.py](/gui.py) - Front end of the controll software DEBUG ONLY
+* [calibrate.py](/calibrate.py) - Finds the chessboard square corner coordinates
+* [execute.py](/execute.py) - Uses board coordinates and a chess board images to determine moves
+* [interface.py](/interface.py) - Interfaces with the chess engine to input and receive moves
 
 ## Acknowledgements
 * **James Steven**
